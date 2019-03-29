@@ -24,6 +24,8 @@ This repository contains [Feather](https://github.com/feathericons/feather) icon
       
 5. `/png-1024px` contains slightly lower resolution (1024x1024px, 4096 pixels/inch) `png` rasters.
 
+6. Heavily optimized and compressed versions of all raster images are available on branch `imgbot` ([link](https://github.com/sharaquss/feathericons-for-mobile/tree/imgbot)). Details in the [pull request](https://github.com/sharaquss/feathericons-for-mobile/pull/1).
+
 
 <br/>
 
