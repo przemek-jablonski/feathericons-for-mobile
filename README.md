@@ -1,5 +1,7 @@
 # feathericons-for-mobile
-Free, MIT-based redistribution of beautiful open source icon set [Feather](https://github.com/feathericons/feather) converted to various formats particularly useful for mobile developers (Android and iOS).
+Free, MIT-based redistribution of beautiful open source icon set [Feather](https://github.com/feathericons/feather) converted to various formats particularly useful for mobile developers (Android and iOS). 
+
+I found original vector `svg` format a bit painful to work with on my projects, so I decided to share my renders here.
 
 
 ### Contents
