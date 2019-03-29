@@ -8,7 +8,7 @@ I found original vector `svg` format a bit painful to work with on my projects, 
 This repository contains [Feather](https://github.com/feathericons/feather) icons in diverse array of different formats, types and resolutions which are 100% ready to use out of the box in either Android or iOS application development.
 
 
-1. `/svg` folder contains original vector `svg` files on 24x24 grid (originals).
+1. `/svg` folder contains original vector `svg` files on 24x24 grid.
 
 2. `/ios` folder contains vector `pdf` files.
 
