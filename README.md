@@ -2,10 +2,6 @@
 Free, MIT-based redistribution of beautiful open source icon set [Feather](https://github.com/feathericons/feather) converted to various formats particularly useful for mobile developers (Android and iOS).
 
 
-<br/>
-
-
-
 ### Contents
 This repository contains [Feather](https://github.com/feathericons/feather) icons in diverse array of different formats, types and resolutions which are 100% ready to use out of the box in either Android or iOS application development.
 
@@ -27,7 +23,7 @@ This repository contains [Feather](https://github.com/feathericons/feather) icon
 5. `/png-1024px` contains slightly lower resolution (1024x1024px, 4096 pixels/inch) `png` rasters.
 
 
-  
+<br/>
 
 
 ### Feather
